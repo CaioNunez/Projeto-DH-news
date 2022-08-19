@@ -3,10 +3,14 @@ body {
 }
 
 header h1 {
-    color: #ec183f;
+    color: #f30934;
     font-size: 45px;
     width: 800px;
     margin: 0 auto;
+    text-align: center;
+    border: solid black 2pt;
+    border-radius: 10pt;
+    background-color: white;
 }
 
 main {
