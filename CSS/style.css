@@ -1,0 +1,42 @@
+body {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+header h1 {
+    color: #ec183f;
+    font-size: 45px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+main {
+    width: 800px;
+    margin: 0 auto;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 50px;
+}
+
+small.data {
+    font-weight: 700;
+}
+
+img {
+    width: 100%;
+}
+
+ul.redes-sociais {
+    text-align: center;
+}
+
+ul.redes-sociais {
+    list-style: none;
+}
+
+ul.redes-sociais li {
+    display: inline-block;
+}
+
+ul.redes-sociais li a img {
+    width: 40px;
+    margin: 10px;
+}
