@@ -3,13 +3,13 @@ body {
 }
 
 header h1 {
-    color: #f30934;
-    font-size: 45px;
+    color: #0d09f3;
+    font-size: 55px;
     width: 800px;
     margin: 0 auto;
     text-align: center;
     border: solid black 2pt;
-    border-radius: 10pt;
+    border-radius: 20pt;
     background-color: white;
 }
 
@@ -22,6 +22,8 @@ main {
 
 small.data {
     font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
 }
 
 img {
