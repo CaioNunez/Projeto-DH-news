@@ -1,6 +1,6 @@
 *{
-    margin: 10px auto;
-    padding: 0;
+    margin: 0;
+    /* padding: 5px; */
 }
 
 body {
@@ -11,7 +11,7 @@ header h1 {
     color: #0d09f3;
     font-size: 55px;
     width: 700px;
-    /* margin: 0 auto; */
+    margin: 10px auto;
     text-align: center; 
     border: solid black 2pt;
     border-radius: 20pt;
@@ -29,6 +29,7 @@ small.data {
     font-weight: bolder;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12pt;
+    padding: 5px;
 }
 
 img {
@@ -43,5 +44,9 @@ ul.redes-sociais {
 
 div a img {
     width: 40px;
+    margin: 10px;
+}
+
+p{
     margin: 10px;
 }
