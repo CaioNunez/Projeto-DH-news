@@ -5,7 +5,7 @@ body {
 header h1 {
     color: #0d09f3;
     font-size: 55px;
-    width: 800px;
+    width: 700px;
     margin: 0 auto;
     text-align: center;
     border: solid black 2pt;
@@ -14,14 +14,14 @@ header h1 {
 }
 
 main {
-    width: 800px;
+    width: 700px;
     margin: 0 auto;
     border-bottom: 1px solid #ccc;
     padding-bottom: 50px;
 }
 
 small.data {
-    font-weight: 700;
+    font-weight: bolder;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12pt;
 }
@@ -31,11 +31,9 @@ img {
 }
 
 ul.redes-sociais {
-    text-align: center;
-}
-
-ul.redes-sociais {
-    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:center
 }
 
 ul.redes-sociais li {
