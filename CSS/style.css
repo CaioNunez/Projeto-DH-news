@@ -33,14 +33,10 @@ img {
 ul.redes-sociais {
     display: flex;
     flex-direction: row;
-    justify-content:center
+    justify-content:center;
 }
 
-ul.redes-sociais li {
-    display: inline-block;
-}
-
-ul.redes-sociais li a img {
+div a img {
     width: 40px;
     margin: 10px;
 }
